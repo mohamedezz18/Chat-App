@@ -1,0 +1,51 @@
+D:\Project .Net And Angular\Dating App Api\DatingApp.Core\bin\Debug\net10.0\DatingApp.Core.deps.json
+D:\Project .Net And Angular\Dating App Api\DatingApp.Core\bin\Debug\net10.0\DatingApp.Core.dll
+D:\Project .Net And Angular\Dating App Api\DatingApp.Core\bin\Debug\net10.0\DatingApp.Core.pdb
+D:\Project .Net And Angular\Dating App Api\DatingApp.Core\obj\Debug\net10.0\DatingApp.Core.csproj.AssemblyReference.cache
+D:\Project .Net And Angular\Dating App Api\DatingApp.Core\obj\Debug\net10.0\DatingApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project .Net And Angular\Dating App Api\DatingApp.Core\obj\Debug\net10.0\DatingApp.Core.AssemblyInfoInputs.cache
+D:\Project .Net And Angular\Dating App Api\DatingApp.Core\obj\Debug\net10.0\DatingApp.Core.AssemblyInfo.cs
+D:\Project .Net And Angular\Dating App Api\DatingApp.Core\obj\Debug\net10.0\DatingApp.Core.csproj.CoreCompileInputs.cache
+D:\Project .Net And Angular\Dating App Api\DatingApp.Core\obj\Debug\net10.0\DatingApp.Core.dll
+D:\Project .Net And Angular\Dating App Api\DatingApp.Core\obj\Debug\net10.0\refint\DatingApp.Core.dll
+D:\Project .Net And Angular\Dating App Api\DatingApp.Core\obj\Debug\net10.0\DatingApp.Core.pdb
+D:\Project .Net And Angular\Dating App Api\DatingApp.Core\obj\Debug\net10.0\ref\DatingApp.Core.dll
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Core\bin\Debug\net10.0\DatingApp.Core.deps.json
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Core\bin\Debug\net10.0\DatingApp.Core.dll
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Core\bin\Debug\net10.0\DatingApp.Core.pdb
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Core\obj\Debug\net10.0\DatingApp.Core.csproj.AssemblyReference.cache
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Core\obj\Debug\net10.0\DatingApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Core\obj\Debug\net10.0\DatingApp.Core.AssemblyInfoInputs.cache
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Core\obj\Debug\net10.0\DatingApp.Core.AssemblyInfo.cs
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Core\obj\Debug\net10.0\DatingApp.Core.csproj.CoreCompileInputs.cache
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Core\obj\Debug\net10.0\DatingApp.Core.dll
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Core\obj\Debug\net10.0\refint\DatingApp.Core.dll
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Core\obj\Debug\net10.0\DatingApp.Core.pdb
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Core\obj\Debug\net10.0\ref\DatingApp.Core.dll
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Core\obj\Debug\net10.0\DatingApp.Core.sourcelink.json
+D:\Project\Chat App\DatingApp Api\DatingApp.Core\bin\Debug\net10.0\DatingApp.Core.deps.json
+D:\Project\Chat App\DatingApp Api\DatingApp.Core\bin\Debug\net10.0\DatingApp.Core.dll
+D:\Project\Chat App\DatingApp Api\DatingApp.Core\bin\Debug\net10.0\DatingApp.Core.pdb
+D:\Project\Chat App\DatingApp Api\DatingApp.Core\obj\Debug\net10.0\DatingApp.Core.csproj.AssemblyReference.cache
+D:\Project\Chat App\DatingApp Api\DatingApp.Core\obj\Debug\net10.0\DatingApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Chat App\DatingApp Api\DatingApp.Core\obj\Debug\net10.0\DatingApp.Core.AssemblyInfoInputs.cache
+D:\Project\Chat App\DatingApp Api\DatingApp.Core\obj\Debug\net10.0\DatingApp.Core.AssemblyInfo.cs
+D:\Project\Chat App\DatingApp Api\DatingApp.Core\obj\Debug\net10.0\DatingApp.Core.csproj.CoreCompileInputs.cache
+D:\Project\Chat App\DatingApp Api\DatingApp.Core\obj\Debug\net10.0\DatingApp.Core.sourcelink.json
+D:\Project\Chat App\DatingApp Api\DatingApp.Core\obj\Debug\net10.0\DatingApp.Core.dll
+D:\Project\Chat App\DatingApp Api\DatingApp.Core\obj\Debug\net10.0\refint\DatingApp.Core.dll
+D:\Project\Chat App\DatingApp Api\DatingApp.Core\obj\Debug\net10.0\DatingApp.Core.pdb
+D:\Project\Chat App\DatingApp Api\DatingApp.Core\obj\Debug\net10.0\ref\DatingApp.Core.dll
+D:\Projects\Chat App\DatingApp Api\DatingApp.Core\bin\Debug\net10.0\DatingApp.Core.deps.json
+D:\Projects\Chat App\DatingApp Api\DatingApp.Core\bin\Debug\net10.0\DatingApp.Core.dll
+D:\Projects\Chat App\DatingApp Api\DatingApp.Core\bin\Debug\net10.0\DatingApp.Core.pdb
+D:\Projects\Chat App\DatingApp Api\DatingApp.Core\obj\Debug\net10.0\DatingApp.Core.csproj.AssemblyReference.cache
+D:\Projects\Chat App\DatingApp Api\DatingApp.Core\obj\Debug\net10.0\DatingApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Chat App\DatingApp Api\DatingApp.Core\obj\Debug\net10.0\DatingApp.Core.AssemblyInfoInputs.cache
+D:\Projects\Chat App\DatingApp Api\DatingApp.Core\obj\Debug\net10.0\DatingApp.Core.AssemblyInfo.cs
+D:\Projects\Chat App\DatingApp Api\DatingApp.Core\obj\Debug\net10.0\DatingApp.Core.csproj.CoreCompileInputs.cache
+D:\Projects\Chat App\DatingApp Api\DatingApp.Core\obj\Debug\net10.0\DatingApp.Core.sourcelink.json
+D:\Projects\Chat App\DatingApp Api\DatingApp.Core\obj\Debug\net10.0\DatingApp.Core.dll
+D:\Projects\Chat App\DatingApp Api\DatingApp.Core\obj\Debug\net10.0\refint\DatingApp.Core.dll
+D:\Projects\Chat App\DatingApp Api\DatingApp.Core\obj\Debug\net10.0\DatingApp.Core.pdb
+D:\Projects\Chat App\DatingApp Api\DatingApp.Core\obj\Debug\net10.0\ref\DatingApp.Core.dll

@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="DatingApp.Core/DatingApp.Core.csproj" />
+    <Project Path="DatingApp.Infrastructure/DatingApp.Infrastructure.csproj" />
+    <Project Path="DatingApp.UI/DatingApp.UI.csproj" />
+  </Folder>
+</Solution>

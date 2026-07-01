@@ -1,0 +1,12 @@
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Core\bin\Release\net10.0\DatingApp.Core.deps.json
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Core\bin\Release\net10.0\DatingApp.Core.dll
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Core\bin\Release\net10.0\DatingApp.Core.pdb
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Core\obj\Release\net10.0\DatingApp.Core.csproj.AssemblyReference.cache
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Core\obj\Release\net10.0\DatingApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Core\obj\Release\net10.0\DatingApp.Core.AssemblyInfoInputs.cache
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Core\obj\Release\net10.0\DatingApp.Core.AssemblyInfo.cs
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Core\obj\Release\net10.0\DatingApp.Core.csproj.CoreCompileInputs.cache
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Core\obj\Release\net10.0\DatingApp.Core.dll
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Core\obj\Release\net10.0\refint\DatingApp.Core.dll
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Core\obj\Release\net10.0\DatingApp.Core.pdb
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Core\obj\Release\net10.0\ref\DatingApp.Core.dll

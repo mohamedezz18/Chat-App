@@ -1,0 +1,17 @@
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Infrastructure\bin\Release\net10.0\DatingApp.Infrastructure.deps.json
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Infrastructure\bin\Release\net10.0\DatingApp.Infrastructure.runtimeconfig.json
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Infrastructure\bin\Release\net10.0\DatingApp.Infrastructure.dll
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Infrastructure\bin\Release\net10.0\DatingApp.Infrastructure.pdb
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Infrastructure\bin\Release\net10.0\DatingApp.Core.dll
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Infrastructure\bin\Release\net10.0\DatingApp.Core.pdb
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Infrastructure\obj\Release\net10.0\DatingApp.Infrastructure.csproj.AssemblyReference.cache
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Infrastructure\obj\Release\net10.0\DatingApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Infrastructure\obj\Release\net10.0\DatingApp.Infrastructure.AssemblyInfoInputs.cache
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Infrastructure\obj\Release\net10.0\DatingApp.Infrastructure.AssemblyInfo.cs
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Infrastructure\obj\Release\net10.0\DatingApp.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Infrastructure\obj\Release\net10.0\DatingAp.B9E54FFA.Up2Date
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Infrastructure\obj\Release\net10.0\DatingApp.Infrastructure.dll
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Infrastructure\obj\Release\net10.0\refint\DatingApp.Infrastructure.dll
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Infrastructure\obj\Release\net10.0\DatingApp.Infrastructure.pdb
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Infrastructure\obj\Release\net10.0\DatingApp.Infrastructure.genruntimeconfig.cache
+D:\Project .Net And Angular\DatingApp Api\DatingApp.Infrastructure\obj\Release\net10.0\ref\DatingApp.Infrastructure.dll

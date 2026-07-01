@@ -1,0 +1,23 @@
+import { Component, inject } from '@angular/core';
+import { AccountService } from '../../Core/Services/account-service';
+import { UserManagement } from './user-management/user-management';
+import { PhotoManagement } from './photo-management/photo-management';
+
+@Component({
+  selector: 'app-admin',
+  imports: [UserManagement, PhotoManagement],
+  templateUrl: './admin.html',
+  styleUrl: './admin.css',
+})
+export class Admin {
+  protected accountService = inject(AccountService);
+  activeTab = 'roles';
+  tabs = [
+    { label: 'User management', value: 'roles' },
+    { label: 'Photo moderation', value: 'photos' },
+  ];
+
+  setTab(tab: string) {
+    this.activeTab = tab;
+  }
+}

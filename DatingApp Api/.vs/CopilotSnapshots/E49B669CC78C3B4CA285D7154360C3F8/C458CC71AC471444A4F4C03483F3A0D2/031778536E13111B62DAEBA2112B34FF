@@ -1,0 +1,91 @@
+﻿using DatingApp.Core.Domain.IdentityEntities;
+using DatingApp.Core.DTO;
+using DatingApp.Core.ServiceContracts;
+using DatingApp.Core.Settings;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.Extensions.Options;
+using System;
+
+
+namespace DatingApp.Core.Services
+{
+    public class AccountService : IAccountService
+    {
+        private readonly UserManager<AppUser> _userManager;
+
+        public readonly SignInManager<AppUser> _signInManager;
+        public readonly IAuthService _authService;
+
+        private readonly Jwt _jwt;
+
+        public AccountService(UserManager<AppUser> userManager, SignInManager<AppUser> signInManager,
+            IOptions<Jwt> jwt , IAuthService authService)
+        {
+            _userManager = userManager;
+            _signInManager = signInManager;
+            _jwt = jwt.Value;
+            _authService = authService;
+        }
+
+        public async Task<bool> EmailIsExists(string email)
+        {
+            return await _userManager.Users.FirstOrDefault(u => u.Email.ToLower() == email.ToLower()) ;
+        }
+
+        public async Task<AuthenticationUserResponseDTO> RegisterAsync(RegisterDto model)
+        {
+           
+            AppUser user = new AppUser
+            {
+                DisplayName = model.DisplayName,
+                Email = model.Email
+            };
+            IdentityResult result = await _userManager.CreateAsync(user, model.Password);
+
+            if (result.Succeeded) {
+                await _signInManager.SignInAsync(user, isPersistent: false);
+
+                AuthenticationUserResponseDTO authenticationResponse =await _authService.CreateJwtToken(user);
+
+                return authenticationResponse;
+            }
+
+            else
+            {
+                var errors = string.Empty;
+
+                foreach (var error in result.Errors)
+                    errors += $"{error.Description},";
+
+                return new AuthenticationUserResponseDTO { ErrorMessage = errors };
+            }
+        }
+
+        public async Task<AuthenticationUserResponseDTO> LoginAsync(LoginDto model)
+        {
+            if (model == null)
+            {
+                return new AuthenticationUserResponseDTO { ErrorMessage = "Invalid login request." };
+            }
+
+            var result = await _signInManager.PasswordSignInAsync(model.Email, model.Password, isPersistent: false, lockoutOnFailure: false);
+            if (result.Succeeded)
+            {
+                AppUser user = await _userManager.FindByEmailAsync(model.Email);
+
+                if (user == null)
+                {
+                    return new AuthenticationUserResponseDTO { ErrorMessage = "Invalid email or password." };
+                }
+                AuthenticationUserResponseDTO authenticationResponse = await _authService.CreateJwtToken(user);
+                return authenticationResponse;
+            }
+            else
+            {
+                return new AuthenticationUserResponseDTO { ErrorMessage = "Invalid email or password." };
+            }
+        }
+
+        
+    }
+}
